@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268755080825",
+    "project_id": "motoreise-demo-flutterapp",
+    "storage_bucket": "motoreise-demo-flutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268755080825:android:c014213af9d94be229a6a8",
+        "android_client_info": {
+          "package_name": "com.example.motoreise_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268755080825-bpv3h90vh9no35f8f3tshts9nt32ojt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motoreise_app",
+            "certificate_hash": "23f8d9dfe504f089720f3cf86b0c0bb2395d69ab"
+          }
+        },
+        {
+          "client_id": "268755080825-84l6tc8qrdee4gdld4vbvstchn38q8hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4oURe5lXztre8vx6_JKIS6DIZop2YOPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268755080825-84l6tc8qrdee4gdld4vbvstchn38q8hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
